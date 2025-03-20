@@ -32,7 +32,7 @@ Our approach is data-driven, integrating external observation data and scientifi
 **Identifying Drivers of Land Cover Change (Question 1):**
 - Build regression models to identify significant drivers of land cover change, drivers we selected cover four aspects:
 1. Climate - Climate precipitation
-2. Vegetation - GPP
+2. Vegetation - GPP (Gross Primary Production)
 3. Water - stream water data
 4. Soil - Soil PH (external data sources to enrich the analysis)
 
@@ -42,7 +42,6 @@ Our approach is data-driven, integrating external observation data and scientifi
 
 **Strategic Insights for Land and Water Conflicts (Question 3):**
 - Conduct a brainstorming session to generate strategic insights based on research and findings from questions 1 and 2.
-- Develop solutions for land degradation and restoration, tailored to local and global initiatives such as the G20 Global Land Restoration Initiative.
 
 **Developing Dashboard Solutions (Question 4):**
 - Create an interactive, data-driven dashboard for stakeholders to visualize trends in population density, land cover change, and vegetation productivity.
@@ -50,13 +49,13 @@ Our approach is data-driven, integrating external observation data and scientifi
 - Implement a "District Profile" feature to provide detailed analysis of land cover changes at the district level.
 
 ## Expected Outcomes
-**Dashboard:** A platform visualizing population density, land cover change, rainfall, and vegetation productivity over the past two decades, designed for stakeholders to easily interpret spatial and temporal changes.
+**Dashboard:** A platform visualizing population density, land cover change, rainfall, and vegetation productivity from 2010 to 2023, designed for stakeholders to easily interpret spatial and temporal changes at vairous detailed levevls, such as regions and districts.
 **Analytical Tools:** Tools to compare datasets, extract time-series data, and generate customized reports for specific regions.
-**District Profiles:** A feature that generates detailed land cover change profiles at the district level, helping stakeholders make informed, data-driven decisions.
+
 
 ## Methodology Used Thus Far
-**Data Collection:**
-We have gathered Earth observation data, including satellite images, population density maps, and soil data, to analyze trends over the past two decades.
+**Data Preperation:**
+We have extracted and projected the provided Earth observation data, and we also plan to process external data.
 **Modeling:** 
 Tool: python
 A naive regression model is being used to identify significant drivers of land cover changes, with the inclusion of external datasets for more comprehensive analysis.
@@ -65,7 +64,7 @@ Tool: figma
 Preliminary visualizations of vegetation productivity trends and urban expansion are in progress, focusing on identifying key hotspots of change.
 
 ## Expected Final Product
-The final product will be an interactive dashboard that empowers stakeholders to visualize, analyze, and make decisions based on land cover changes. The dashboard will include customizable analytical tools, district-level profiles, and visualizations to aid in the restoration and conservation of land, especially in the Sahel region.
+The final product will be an interactive dashboard that empowers stakeholders to visualize, analyze, and make decisions based on land cover changes. The dashboard will include customizable analytical tools, various level of detailed profiles, and visualizations to aid in the restoration and conservation of land, especially in the Sahel region.
 
 ## Project Milestones
 **Mid-Project Submission (20th March):** Submit a one-pager or PPT summarizing approach, expected outcomes, and methodology.
