@@ -11,8 +11,11 @@ Team Members: Sourabh Mulik, Linh Pham, Jiashuo Han, Sishan Yang
 
 ## Overview
 **Aims:** explore and address global land restoration challenges
+
 **Region focus:** Sahel region - Assaba 
+
 **Goal:** visualize land cover changes, understand the drivers of vegetation productivity, and identify opportunities for sustainable land management and restoration
+
 **Data:** 
 - Provided: https://drive.google.com/drive/folders/1XRiarmgVx5inxudR9K-LM6xpX6IDfiMx?usp=sharing
 - External: Soil data from https://soilgrids.org/
