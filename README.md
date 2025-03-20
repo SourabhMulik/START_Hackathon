@@ -7,21 +7,24 @@ This project is developed for START Hack 2025 as part of the "Innovating for Lan
 We are a multidisciplinary team with different backgrounds in Data Science, Management and Digital Business.
 Our mission is to combine user-friendly technology that showcases data-driven impact in vulnerable regions like Sahel to enable effective land restoration strategies.
 
-Teammembers: Sourabh Mulik, Linh Pham, Jiashuo Han, Sishan Yang
+Team Members: Sourabh Mulik, Linh Pham, Jiashuo Han, Sishan Yang
 
 ## Overview
 **Aims:** explore and address global land restoration challenges
 **Region focus:** Sahel region - Assaba 
 **Goal:** visualize land cover changes, understand the drivers of vegetation productivity, and identify opportunities for sustainable land management and restoration
 **Data:** 
-- provided: https://drive.google.com/drive/folders/1XRiarmgVx5inxudR9K-LM6xpX6IDfiMx?usp=sharing
-- external: Soil data from https://soilgrids.org/
+- Provided: https://drive.google.com/drive/folders/1XRiarmgVx5inxudR9K-LM6xpX6IDfiMx?usp=sharing
+- External: Soil data from https://soilgrids.org/
 
 
 ## Key Objectives
 **Identify Land Cover Trends:** Understand key trends and primary drivers of land cover changes over the past two decades in the Sahel.
+
 **Hotspots of Vegetation Productivity:** Identify hotspots of change in vegetation productivity, considering urban expansion and other influences.
+
 **Integration of Earth Observation Data:** Utilize Earth observation data to address land and water conflicts, identify land degradation, and uncover restoration opportunities.
+
 **Dashboard Solutions:** Develop dashboard solutions to visualize land cover changes and assess their impact on ecosystem health.
 
 ## Our Approach
