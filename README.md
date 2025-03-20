@@ -20,8 +20,11 @@ Team Members: Sourabh Mulik, Linh Pham, Jiashuo Han, Sishan Yang
 
 ## Key Objectives
 **Identify Land Cover Trends:** Understand key trends and primary drivers of land cover changes over the past two decades in the Sahel.
+
 **Hotspots of Vegetation Productivity:** Identify hotspots of change in vegetation productivity, considering urban expansion and other influences.
+
 **Integration of Earth Observation Data:** Utilize Earth observation data to address land and water conflicts, identify land degradation, and uncover restoration opportunities.
+
 **Dashboard Solutions:** Develop dashboard solutions to visualize land cover changes and assess their impact on ecosystem health.
 
 ## Our Approach
