@@ -53,11 +53,6 @@ Technology like satellite-based dashboards or mobile apps can empower local comm
 This combined approach creates a scalable model for global initiatives like the G20 Land Restoration Initiative by providing a framework that can be copied in other regions facing similar land degradation and resource conflicts, turning data into real action on the ground. This also helps stakeholders like the governments, NGOs, local leaders to quickly assess where intervention is needed for rehabilitation or resource management.
 
 
-## Expected Outcomes
-**Dashboard:** A platform visualizing population density, land cover change, rainfall, and vegetation productivity from 2010 to 2023, designed for stakeholders to easily interpret spatial and temporal changes at vairous detailed levevls, such as regions and districts.
-**Analytical Tools:** Tools to compare datasets, extract time-series data, and generate customized reports for specific regions.
-
-
 ## Methodology Used Thus Far
 **Data Preperation:**
 We have extracted and projected the provided Earth observation data, and we also plan to process external data.
@@ -70,7 +65,7 @@ Preliminary visualizations of vegetation productivity trends and urban expansion
 
 
 ## Final Product
-The final product will be an interactive dashboard that empowers stakeholders to visualize, analyze, and make decisions based on land cover changes. The dashboard will include customizable analytical tools, various level of detailed profiles, and visualizations to aid in the restoration and conservation of land, especially in the Sahel region.
+The final product is an interactive dashboard that empowers stakeholders to visualize, analyze, and make decisions based on factors affecting the land cover. The dashboard includes customizable analytical tools, sensitivity analysis, various level of detailed profiles, and visualizations to aid in the restoration and conservation of land, especially in the Sahel region.
 
 
 ## Project Milestones
